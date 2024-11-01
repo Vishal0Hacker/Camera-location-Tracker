@@ -12,7 +12,7 @@
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
 
 
-[![Run on Repl.it](https://replit.com/@hacker70687/Vishal-Hacker?v=1)](https://replit.com/@hacker70687/Vishal-Hacker?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://replit.com/@hacker70687/Vishal-Hacker?v=1)
  
 #### Video Tutorial 
 

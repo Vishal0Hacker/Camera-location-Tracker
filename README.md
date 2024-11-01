@@ -1,6 +1,6 @@
 
 
-<p align='center'><img style="height:100px;width:100px" src="Screenshot_20241101-162612.jpg" ></p>
+<p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
 
 <h2 align='center'>Camera & location Tracker using a link.</h2>

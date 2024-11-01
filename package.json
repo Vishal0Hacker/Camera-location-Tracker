@@ -1,7 +1,7 @@
 {
-  "name": "TrackDown",
+  "name": "Camera & location Tracker",
   "version": "1.0.0",
-  "description": "Track Down People just through a link",
+  "description": "Tracking People just through a link",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
    },
   "keywords": [],
   "author": {
-   "name" : "Prateek Chaubey",
+   "name" : "VISHAL HACKER",
    "url" : "https://git.io/prateek"
   },
   "license": "MIT",

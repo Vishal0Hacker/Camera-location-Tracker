@@ -9,7 +9,7 @@
 
 </div>
 
-This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
+This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a telegram implementation with extra features than.
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://replit.com/@hacker70687/Vishal-Hacker?v=1)
@@ -27,4 +27,4 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Clone the repo using `git clone https://github.com/https://Vishal0Hacker/Camera-location-Tracker`
 1. `cd TrackDown`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [index.js]
+1. Replace your website URL at [@Vishalzxx]((https://t.me/@Vishalzxx))

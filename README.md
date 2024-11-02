@@ -14,7 +14,7 @@ This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a tel
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://replit.com/@vk0549433/Camera-and-location-Tracker?v=1)
  
-#### Video Tutorial 
+#### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
 [![Video Tutorial](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png)](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png?raw=true)
 
